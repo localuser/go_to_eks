@@ -1,0 +1,10 @@
+
+.terraform*
+
+*.pem
+
+*.tfstate
+
+*.backup
+
+*.x

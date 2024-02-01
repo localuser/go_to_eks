@@ -27,6 +27,7 @@ items:
           app: "hello-wide-world"
       template:
         metadata:
+          name: "hello-wide-world"
           labels:
             app: "hello-wide-world"
         spec:
